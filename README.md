@@ -16,7 +16,3 @@ The code is well-commented and includes a header file **`cleaning_robot.h`** tha
 ## **Usage**
 
 To use the cleaning robot, simply include the **`cleaning_robot.h`** header file and call the appropriate functions with the relevant parameters. The robot's behavior is based on the given map, so make sure to provide a valid map as input.
-
-## **License**
-
-This code is licensed under the MIT License, which is included in the repository. Feel free to use it for personal or commercial projects.
